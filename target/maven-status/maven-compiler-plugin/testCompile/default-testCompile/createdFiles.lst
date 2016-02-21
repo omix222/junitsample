@@ -1,2 +1,10 @@
 hiromitest\sample\BussinessCalendarTest.class
+hiromitest\sample\RangeTestWithParameterizedTest$Rangeがマイナス5_1から5_1で.class
 hiromitest\sample\CarTest.class
+hiromitest\sample\RangeTestWithParameterizedTest$Rangeが0から10_5で$範囲内の場合.class
+hiromitest\sample\RangeTestWithParameterizedTest$Rangeがマイナス5_1から5_1で$範囲外の場合.class
+hiromitest\sample\RangeTestWithParameterizedTest$Rangeが0から10_5で$範囲外の場合.class
+hiromitest\sample\RangeTestWithParameterizedTest$Rangeがマイナス5_1から5_1で$範囲内の場合.class
+hiromitest\sample\RangeTestWithParameterizedTest$Rangeが0から10_5で.class
+hiromitest\sample\RangeTestWithParameterizedTest.class
+hiromitest\sample\StudentTest.class
